@@ -194,7 +194,7 @@ Key Python dependencies in this project include:
 
 > Note: The repository also includes a `requirements.txt` file with package version pins.
 
-## Grafana Dashboard Placeholder
+<!-- ## Grafana Dashboard Placeholder
 
 A Grafana dashboard can be built from the Prometheus metrics emitted by the application.
 
@@ -214,7 +214,7 @@ A Grafana dashboard can be built from the Prometheus metrics emitted by the appl
 ![Grafana Dashboard - Request Decisions](./docs/grafana-request-decisions.png)
 
 ![Grafana Dashboard - Queue and Rate](./docs/grafana-queue-rate.png)
-```
+``` -->
 
 ## Future Enhancements
 
